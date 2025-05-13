@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your project:
-
-````markdown
 # Automated Blog Post Creation and Publishing System
 
 This repository contains the code for an end-to-end automation system that scrapes relevant data from the web, generates SEO-optimized blog posts using **gemini-1.5-flash (Gemini)**, and automatically publishes the content to **Blogger**. The system leverages web scraping, AI-driven content generation, and browser automation to streamline the process of blog creation and publishing.
@@ -23,8 +20,7 @@ This repository contains the code for an end-to-end automation system that scrap
 1. **Clone the repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone <repo-link>
-````
+   git clone <repo-link>```
 
 2. **Install dependencies**
    Install the required Python packages:
